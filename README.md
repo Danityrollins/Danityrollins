@@ -34,6 +34,16 @@ I'm an **Industrial & Production Engineering** graduate (FUTA, Nigeria) and an *
 
 👉 Full case studies on my **[portfolio site](https://danityrollins.github.io)**.
 
+### 🧩 Everything I can help with
+
+**AI agents** (OpenAI, Claude) · **AI SDR & lead generation** (Apollo, ZeroBounce, Instantly) · **Make.com** · **n8n** (cloud & self-hosted) · **Zapier** · **GoHighLevel** · **Trello & Butler** · **Monday.com, ClickUp, Asana** · **Notion** · **HubSpot** · **Fractional operations / project management** · **AI automation audits** · **Excel & Google Sheets automation** · **Data analysis (SPSS) & surveys** · **Virtual assistance** · **Video editing (CapCut Pro)**
+
+### 📦 Open source
+
+- **[ai-automation-workflow-templates](https://github.com/Danityrollins/ai-automation-workflow-templates)** – importable Make.com & n8n AI agents from real production builds (lead intake, GPT extraction, verification, follow-ups, reply listeners, USPTO patent outreach).
+- **[upwork-skills-exporter](https://github.com/Danityrollins/upwork-skills-exporter)** – Chrome extension that ranks the skills clients ask for on Upwork and exports them to CSV.
+- **[ammonia-pipe-flow-analysis](https://github.com/Danityrollins/ammonia-pipe-flow-analysis)** – Python engineering model of NH₃ pipe flow (density, viscosity, Reynolds number).
+
 ### 🛠️ Tools
 
 ![Make](https://img.shields.io/badge/Make.com-6d00cc?style=flat-square&logo=make&logoColor=white)
@@ -46,10 +56,13 @@ I'm an **Industrial & Production Engineering** graduate (FUTA, Nigeria) and an *
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Monday](https://img.shields.io/badge/Monday.com-ff3d57?style=flat-square)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34a853?style=flat-square&logo=googlesheets&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-ff7a59?style=flat-square&logo=hubspot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs%20%26%20Webhooks-555555?style=flat-square)
 
 ### 📫 Work with me
 
-Have a process that eats your team's time? Reach me on **[Upwork](https://www.upwork.com/freelancers/~01708bffbb8b6d5771)** or **[Fiverr](https://www.fiverr.com/s/Bb8o4mG)**, or connect on **[LinkedIn](https://www.linkedin.com/in/ayobami-fajuyi-a46043234)**.
+Have a process that eats your team's time? Reach me on **[Upwork](https://www.upwork.com/freelancers/~01708bffbb8b6d5771)** or **[Fiverr](https://www.fiverr.com/s/Bb8o4mG)**, connect on **[LinkedIn](https://www.linkedin.com/in/ayobami-fajuyi-a46043234)** or find me on **[Contra](https://contra.com/fajuyi_daniel_8p6cg23f)**.
 
 📍 Lagos, Nigeria · WAT (UTC+1)
